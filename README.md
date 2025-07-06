@@ -162,4 +162,5 @@ excel
   - Revenue potential by category
 
 ## 📷 Dashboard Preview
-![Pivot Tables and Dashboard]
+![Pivot Tables and Dashboard][Amazon case study.xlsx](https://github.com/user-attachments/files/21090177/Amazon.case.study.xlsx)
+
